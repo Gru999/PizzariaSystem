@@ -1,0 +1,24 @@
+﻿Ideas to development:
+---------------------
+
+customer.Order()
+Hvor der kan intastes et nummer
+
+Nummeret skal gemmes i Order
+Og smides in i pizza for at finde ud af hvilket pizza den passer til på listen
+resultatet af checket førs over til oderlist hvor den endelige ordre kan ses, sammen med ingredienserne
+
+PIZZA
+Skal have pizza nummer = PNO
+pizza navn = PN
+pizza pris = PP
+ingredienters = ing
+
+Customer
+navn
+telefon
+kunde nummer
+
+ORDER
+Kunde
+
